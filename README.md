@@ -1,7 +1,7 @@
 ## Xin chào/ Bonjour/ Hello, I'm Minh
 
 My name is Nguyen Anh Minh MAI. I'm actually a Ph.D student in Computer Science at [Toulouse Computer Science Research Institute (IRIT)](https://www.irit.fr/) and [Toulouse Cerema Research Center (Cerema)](https://www.cerema.fr/fr/innovation-recherche/recherche/equipes/sti-systemes-transports-intelligents-plus-securite) in collaboration with a autonomous vehicle company [Easymile](https://easymile.com/) in Toulouse, France.
-My research is focusing on scene understanding (shape, depth, motion, object detection and recognition) from images and videos.
+My research is focusing on scene understanding (shape, depth, motion, object detection and recognition) from images, videos and 3D sensors such as LiDAR, Realsense.
 
 Now, i'am currently working on a project about environment perception (3D object detection and semantic segmentation on point cloud from lidar sensor) for self-driving cars.
 
