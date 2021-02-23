@@ -1,4 +1,4 @@
-## I'm Minh - PH.D. student in Computer Science
+## I'm Minh - Ph.D student in Computer Science
 
 
 ### See more about me on my website: [http://maiminh1996.com/](http://maiminh1996.com/)
