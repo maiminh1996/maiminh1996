@@ -1,7 +1,7 @@
 ## I'm Minh - Ph.D student in Computer Science
 
 
-### See more about me on my website: [http://maiminh1996.com/](http://maiminh1996.com/)
+### See my news here: [http://maiminh1996.com/](http://maiminh1996.com/)
 
 
 
